@@ -1,0 +1,12 @@
+#navPrincipal {
+    display: flex;
+    justify-content: space-around;
+}
+
+#navbarSupportedContent {
+    width: 48%;
+}
+
+#menuNav {
+    width: 62%;
+}
